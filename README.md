@@ -35,6 +35,7 @@ Prompt engineering: Used targeted prompts that align with users preferences. <br
 - Gender: Male
 Prompt:
 "Please suggest a casual summer outfit for a 20-year-old male who is 180 cm tall and prefers lightweight, trendy styles. Provide outfit details that focus on breathable fabrics and summer-appropriate colors."
+![image](https://github.com/user-attachments/assets/4bc7ebc0-d40d-46ba-8ac5-8271860e0467)
 
 2. Winter Outfit for Sustainable Fashion
 Body Type: Pear-shaped
