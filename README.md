@@ -33,90 +33,90 @@ Prompt engineering: Used targeted prompts that align with users preferences. <br
 - Style Preference: Lightweight and trendy
 - Occasion: Casual summer wear
 - Gender: Male
-Prompt:
+Prompt: <br/>
 "Please suggest a casual summer outfit for a 20-year-old male who is 180 cm tall and prefers lightweight, trendy styles. Provide outfit details that focus on breathable fabrics and summer-appropriate colors."
 ![image](https://github.com/user-attachments/assets/4bc7ebc0-d40d-46ba-8ac5-8271860e0467)
 
 2. Winter Outfit for Sustainable Fashion
-Body Type: Pear-shaped
-Style Preference: Sustainable fashion
-Occasion: Winter wear
-Gender: Female
-Prompt:
+- Body Type: Pear-shaped
+- Style Preference: Sustainable fashion
+- Occasion: Winter wear
+- Gender: Female
+Prompt: <br/>
 "Generate a winter outfit recommendation for a female user with a pear-shaped body who prefers sustainable fashion. Include details on eco-friendly materials and layering options."
 ![image](https://github.com/user-attachments/assets/ed592d10-8f43-499c-a096-2f30230a5343)
 
 3. Formal Business Conference Attire
-Body Type: Slim-fit preferred
-Style Preference: Neutral and formal
-Occasion: Business conference
-Gender: Male
-Prompt:
+- Body Type: Slim-fit preferred
+- Style Preference: Neutral and formal
+- Occasion: Business conference
+- Gender: Male
+Prompt: <br/>
 "Recommend a formal outfit for a male user attending a business conference. The user prefers slim-fit suits and neutral colors. Please suggest a complete outfit, including accessories."
 ![image](https://github.com/user-attachments/assets/125cac4a-af18-4417-b48d-de8ceccdd579)
 
 4. Tropical Vacation Wardrobe
-Body Type: Not specified
-Style Preference: Casual and vibrant
-Occasion: Tropical beach vacation
-Gender: Any
-Prompt:
+- Body Type: Not specified
+- Style Preference: Casual and vibrant
+- Occasion: Tropical beach vacation
+- Gender: Any
+Prompt: <br/>
 "Provide a vacation wardrobe for a user going to a tropical beach holiday. Include casual, breathable outfits with vibrant colors, along with sun protection and airy fabrics."
 ![image](https://github.com/user-attachments/assets/e7d6ae15-61a9-49d2-a31d-cc6b74cf2b51)
 
 5. Festival Wear for a Traditional Event
-Body Type: Not specified
-Style Preference: Elegant and minimalistic
-Occasion: Traditional festival
-Gender: Female
-Prompt:
+- Body Type: Not specified
+- Style Preference: Elegant and minimalistic
+- Occasion: Traditional festival
+- Gender: Female
+Prompt: <br/>
 "Recommend a traditional outfit for a female user attending a cultural festival. The user prefers elegant and minimalistic styles. Include recommendations for accessories and footwear."
 ![image](https://github.com/user-attachments/assets/1e5b6c4b-f689-460b-bb59-875e05e69100)
 
 ---REMAINING 5 PROMPTS---
 
 6. Athleisure Style
-Body Type: Not specified
-Style Preference: Sporty yet stylish
-Occasion: Outdoor activities
-Gender: Male
-Prompt:
+- Body Type: Not specified
+- Style Preference: Sporty yet stylish
+- Occasion: Outdoor activities
+- Gender: Male
+Prompt: <br/>
 "Suggest an athleisure outfit for a male user who prefers a sporty yet stylish look. The user prioritizes comfort and functionality for outdoor activities."
 ![image](https://github.com/user-attachments/assets/a5337144-6b08-400a-b0c1-0e3cf4266c72)
 
 7. Date Night Outfit
-Body Type: Not specified
-Style Preference: Chic and romantic
-Occasion: Dinner date
-Gender: Female
-Prompt:
+- Body Type: Not specified
+- Style Preference: Chic and romantic
+- Occasion: Dinner date
+- Gender: Female
+Prompt: <br/> 
 "Recommend a chic and romantic outfit for a female user going on a dinner date. The user prefers dresses with a modern yet elegant style."
 ![image](https://github.com/user-attachments/assets/d82fdd68-89d7-4db5-b4ae-1879e8ad8bac)
 
 8. Kids’ Winter Wear
-Body Type: Not specified (Child, 5 years old)
-Style Preference: Comfortable and playful
-Occasion: Winter outdoor play
-Gender: Any
-Prompt:
+- Body Type: Not specified (Child, 5 years old)
+- Style Preference: Comfortable and playful
+- Occasion: Winter outdoor play
+- Gender: Any
+Prompt: <br/>
 "Suggest a warm and comfortable winter outfit for a 5-year-old child. Focus on vibrant colors and cozy materials suitable for outdoor play."
 ![image](https://github.com/user-attachments/assets/5811bf95-34dd-4696-9c2d-2f7951716be2)
 
 9. Bohemian Summer Style
-Body Type: Not specified
-Style Preference: Bohemian
-Occasion: Summer wear
-Gender: Female
-Prompt:
+- Body Type: Not specified
+- Style Preference: Bohemian
+- Occasion: Summer wear
+- Gender: Female
+- Prompt: <br/>
 "Generate a bohemian-style summer outfit for a female user. Include light, flowy fabrics with unique patterns and accessories."
 ![image](https://github.com/user-attachments/assets/a74d7664-b225-4620-8166-e8491b89c56f)
 
 10. Eco-Friendly Office Attire
-Body Type: Not specified
-Style Preference: Eco-friendly and modern
-Occasion: Business casual for office
-Gender: Male
-Prompt:
+- Body Type: Not specified
+- Style Preference: Eco-friendly and modern
+- Occasion: Business casual for office
+- Gender: Male
+- Prompt: <br/>
 "Recommend an eco-friendly business casual outfit for a male user. Include sustainable fabrics and modern designs suitable for office settings."
 ![image](https://github.com/user-attachments/assets/4e15af7f-9f82-40ed-84e0-3cb1430f2bc3)
 
