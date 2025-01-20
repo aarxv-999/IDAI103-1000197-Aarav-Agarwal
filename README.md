@@ -26,6 +26,13 @@ In order to make an effective fashion recommender, proper research needs to be c
 The model that has been used for this project is the gemini 1.5 pro API. <br/>
 Prompt engineering: Used targeted prompts that align with users preferences. <br/>
 
+
+### Obtaining the API Key
+
+To get the API key, I went to the Google AI studio website (https://aistudio.google.com/app/apikey) to generate an API key for Gemini. </br>
+![image](https://github.com/user-attachments/assets/3934448d-453b-44d8-a736-74b01993f0d6)
+![image](https://github.com/user-attachments/assets/7c7ca539-cceb-4ee7-90dd-c5a2a3fde3d5)
+
 ### Prompts that were used 
 
 1. Casual Summer Outfit Suggestion
