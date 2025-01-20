@@ -127,9 +127,3 @@ https://aistudio.google.com/app/apikey <br/>
 https://www.datacamp.com/tutorial/gemini-pro-api-tutorial <br/>
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10565860 <br/>
 
-https://www.geeksforgeeks.org/python-seaborn-tutorial/ <br/>
-https://matplotlib.org/stable/api/pyplot_summary.html <br/>
-https://medium.com/@anaraquel.fiap/exploratory-data-analysis-with-python-disney-movies-ab2e35a77121 
-https://medium.com/analytics-vidhya/portfolio-project-1-disney-movie-anaysis-12190297d1fe
-https://drive.google.com/drive/folders/1xNzPS4PNwM5eRrp5bmQwnWnB0auJKnEB
-
