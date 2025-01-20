@@ -44,6 +44,7 @@ Occasion: Winter wear
 Gender: Female
 Prompt:
 "Generate a winter outfit recommendation for a female user with a pear-shaped body who prefers sustainable fashion. Include details on eco-friendly materials and layering options."
+![image](https://github.com/user-attachments/assets/ed592d10-8f43-499c-a096-2f30230a5343)
 
 3. Formal Business Conference Attire
 Body Type: Slim-fit preferred
@@ -52,6 +53,7 @@ Occasion: Business conference
 Gender: Male
 Prompt:
 "Recommend a formal outfit for a male user attending a business conference. The user prefers slim-fit suits and neutral colors. Please suggest a complete outfit, including accessories."
+![image](https://github.com/user-attachments/assets/125cac4a-af18-4417-b48d-de8ceccdd579)
 
 4. Tropical Vacation Wardrobe
 Body Type: Not specified
@@ -60,6 +62,7 @@ Occasion: Tropical beach vacation
 Gender: Any
 Prompt:
 "Provide a vacation wardrobe for a user going to a tropical beach holiday. Include casual, breathable outfits with vibrant colors, along with sun protection and airy fabrics."
+![image](https://github.com/user-attachments/assets/e7d6ae15-61a9-49d2-a31d-cc6b74cf2b51)
 
 5. Festival Wear for a Traditional Event
 Body Type: Not specified
@@ -68,6 +71,7 @@ Occasion: Traditional festival
 Gender: Female
 Prompt:
 "Recommend a traditional outfit for a female user attending a cultural festival. The user prefers elegant and minimalistic styles. Include recommendations for accessories and footwear."
+![image](https://github.com/user-attachments/assets/1e5b6c4b-f689-460b-bb59-875e05e69100)
 
 ---REMAINING 5 PROMPTS---
 
@@ -78,6 +82,7 @@ Occasion: Outdoor activities
 Gender: Male
 Prompt:
 "Suggest an athleisure outfit for a male user who prefers a sporty yet stylish look. The user prioritizes comfort and functionality for outdoor activities."
+![image](https://github.com/user-attachments/assets/a5337144-6b08-400a-b0c1-0e3cf4266c72)
 
 7. Date Night Outfit
 Body Type: Not specified
@@ -86,6 +91,7 @@ Occasion: Dinner date
 Gender: Female
 Prompt:
 "Recommend a chic and romantic outfit for a female user going on a dinner date. The user prefers dresses with a modern yet elegant style."
+![image](https://github.com/user-attachments/assets/d82fdd68-89d7-4db5-b4ae-1879e8ad8bac)
 
 8. Kids’ Winter Wear
 Body Type: Not specified (Child, 5 years old)
@@ -94,6 +100,7 @@ Occasion: Winter outdoor play
 Gender: Any
 Prompt:
 "Suggest a warm and comfortable winter outfit for a 5-year-old child. Focus on vibrant colors and cozy materials suitable for outdoor play."
+![image](https://github.com/user-attachments/assets/5811bf95-34dd-4696-9c2d-2f7951716be2)
 
 9. Bohemian Summer Style
 Body Type: Not specified
@@ -102,6 +109,7 @@ Occasion: Summer wear
 Gender: Female
 Prompt:
 "Generate a bohemian-style summer outfit for a female user. Include light, flowy fabrics with unique patterns and accessories."
+![image](https://github.com/user-attachments/assets/a74d7664-b225-4620-8166-e8491b89c56f)
 
 10. Eco-Friendly Office Attire
 Body Type: Not specified
@@ -110,21 +118,15 @@ Occasion: Business casual for office
 Gender: Male
 Prompt:
 "Recommend an eco-friendly business casual outfit for a male user. Include sustainable fabrics and modern designs suitable for office settings."
+![image](https://github.com/user-attachments/assets/4e15af7f-9f82-40ed-84e0-3cb1430f2bc3)
 
-![age_rating_comparison_tv_movies](https://github.com/user-attachments/assets/dfce6892-d4db-4751-94f0-5804576312f5)
-![age_rating_distribution_by_genre](https://github.com/user-attachments/assets/6fa488fd-527f-4000-84e0-1c85c0a268bd)
-![average_running_time_bar_chart](https://github.com/user-attachments/assets/2477c958-617a-4541-b6bc-840d2098962c)
-![content_longevity](https://github.com/user-attachments/assets/d1546a81-74cd-4b5c-aaf8-25bdc5e55c73)
-![content_types_over_time](https://github.com/user-attachments/assets/da478a32-cdbf-47b7-903f-1e336b0c90fb)
-![genre_comparison_tv_movies](https://github.com/user-attachments/assets/aacd4bc4-9625-4672-9228-efd4a4435b94)
-![genre_distribution](https://github.com/user-attachments/assets/703302ae-e5d4-4c32-8054-c7bdbd024455)
-![movie_running_time_trends](https://github.com/user-attachments/assets/8aec0dbd-3a87-467e-b516-d8a6ad95081d)
-![release_year_comparison_tv_movies](https://github.com/user-attachments/assets/4864e244-acfd-4828-99e5-60eb6e2a4930)
-![release_year_trends_tv_movies](https://github.com/user-attachments/assets/7182dd9f-e633-4d0b-8999-600298fa513f)
 
 ### Citations <br/>
 https://chatgpt.com/ <br/>
-https://seaborn.pydata.org/tutorial/introduction.html <br/>
+https://aistudio.google.com/app/apikey <br/>
+https://www.datacamp.com/tutorial/gemini-pro-api-tutorial <br/>
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10565860 <br/>
+
 https://www.geeksforgeeks.org/python-seaborn-tutorial/ <br/>
 https://matplotlib.org/stable/api/pyplot_summary.html <br/>
 https://medium.com/@anaraquel.fiap/exploratory-data-analysis-with-python-disney-movies-ab2e35a77121 
